@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg"></a>]([https://twitter.com/fr13nd0x7f/](https://www.linkedin.com/in/agraj-chandra-96a01a252/))
+[<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg"></a>](https://www.linkedin.com/in/agraj-chandra-96a01a252/)
 
 # Hi there, I'm Agraj Chandra! 👋
 
