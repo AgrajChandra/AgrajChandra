@@ -16,6 +16,7 @@
 - Email: agrajchandra@example.com
 - LinkedIn: [Agraj Chandra](https://www.linkedin.com/in/agrajchandra/)
 - GitHub: [AgrajChandra](https://github.com/AgrajChandra)
+- Portfolio: [Agraj Chnadra](https://agrajportfolio.netlify.app/)
 
 ⚡ Fun fact: I love exploring new technologies, and I'm an avid reader of science fiction novels.
 
