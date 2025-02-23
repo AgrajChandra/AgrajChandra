@@ -65,3 +65,8 @@
 <!--END_SECTION:activity-->
 
 Thanks for visiting my profile! Feel free to connect with me on any of the platforms above. Let's build something amazing together!
+
+<div align="center">
+    
+  ![snake gif](https://github.com/AgrajChandra/AgrajChandra/blob/output/github-snake-dark.svg)
+</div>
