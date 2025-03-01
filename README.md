@@ -28,6 +28,7 @@
 - Java
 - C++
 - HTML/CSS
+- React JS
 
 ### Frameworks and Libraries
 - React
