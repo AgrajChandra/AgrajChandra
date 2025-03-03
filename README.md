@@ -28,8 +28,6 @@
 - Java
 - C++
 - HTML/CSS
-- ReactJS
-- NodeJS
 
 ### Frameworks and Libraries
 - React
@@ -40,8 +38,6 @@
 
 ### Tools and Platforms
 - Git & GitHub
-- Docker
-- Kubernetes
 - AWS
 - Azure
 
