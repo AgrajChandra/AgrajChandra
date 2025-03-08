@@ -27,7 +27,8 @@
 - Python
 - Java
 - C++
-- HTML/CSS
+- HTML
+- CSS
 
 ### Frameworks and Libraries
 - React
