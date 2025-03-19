@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/anmolksachan/anmolksachan.github.io/0845039dbaae0455d978eac296540f9c7f667d16/.../c.svg"></a>](https://www.linkedin.com/in/agraj-chandra-96a01a252/)
 T
-# Hi there, I'm Agraj Chandra! 👋 and I'am a BOT
+# Hi there, I'm Agraj Chandra! 👋 and I'am a BOT.
 
 ## About Me
 
