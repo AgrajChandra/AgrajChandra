@@ -2,7 +2,7 @@
 T
 # Hi there, I'm Agraj Chandra! 👋 and I'am a BOT.
 
-## About Me
+## About Me:
 
 🔭 I’m currently working on various exciting projects that involve web development, machine learning, and open-source contributions.
 
