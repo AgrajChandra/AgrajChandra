@@ -7,7 +7,6 @@
 🔭 I’m currently working on various exciting projects that involve web development, machine learning, and open-source contributions.
 
 🌱 I’m continuously learning and improving my skills in full-stack development, data science, and cloud computing.
-🌱 I’m continuously learning and improving my skills in full-stack development, data science, and cloud computing.
 
 👯 I’m looking to collaborate on innovative projects, especially those that can make a positive impact on the community.
 
